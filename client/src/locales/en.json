@@ -1,0 +1,17 @@
+{
+  "app": {
+    "title": "ContractManager",
+    "logout": "Logout",
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "language": "Language",
+    "english": "English",
+    "arabic": "Arabic"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "contracts": "Contracts",
+    "payments": "Upcoming Payments"
+  }
+}
